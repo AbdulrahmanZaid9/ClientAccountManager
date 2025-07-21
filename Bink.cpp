@@ -6,7 +6,7 @@
 
 using namespace std;
 
-const string ClientFileName = "C:\\Users\\User\\Desktop\\MyProjects\\WithAbu_HadHoad\\problem Solving 3\\Problem37\\Clients.txt";
+const string ClientFileName = "C:\\Users\\User\\Desktop\\MyProjects\\MyCV\\Projects_Course_5\\Projects_C_5\\Bink\\Clients.txt";
 
 enum enUserChoices {View = 1, Add = 2, Delete = 3, Update = 4, Find = 5, Exit = 6};
 struct stClientData
