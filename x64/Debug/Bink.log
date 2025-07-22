@@ -1,4 +1,0 @@
-﻿  Bink.cpp
-C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\Bink\Bink.cpp(40,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
-C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\Bink\Bink.cpp(432,31): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
-  Bink.vcxproj -> C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\x64\Debug\Bink.exe
